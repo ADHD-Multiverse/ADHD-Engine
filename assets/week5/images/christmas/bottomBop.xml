@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bottomBop.png">
+	<!-- Created with Adobe Animate version 24.0.0.305 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bottom Level Boppers Idle0000" x="5" y="5" width="1964" height="661" frameX="-5" frameY="-13" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0001" x="5" y="5" width="1964" height="661" frameX="-5" frameY="-13" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0002" x="1974" y="5" width="1962" height="664" frameX="-5" frameY="-10" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0003" x="1974" y="5" width="1962" height="664" frameX="-5" frameY="-10" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0004" x="5" y="674" width="1964" height="672" frameX="0" frameY="-2" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0005" x="5" y="674" width="1964" height="672" frameX="0" frameY="-2" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0006" x="1974" y="674" width="1964" height="674" frameX="0" frameY="0" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0007" x="1974" y="674" width="1964" height="674" frameX="0" frameY="0" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0008" x="1974" y="674" width="1964" height="674" frameX="0" frameY="0" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0009" x="1974" y="674" width="1964" height="674" frameX="0" frameY="0" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0010" x="1974" y="674" width="1964" height="674" frameX="0" frameY="0" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0011" x="1974" y="674" width="1964" height="674" frameX="0" frameY="0" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0012" x="1974" y="674" width="1964" height="674" frameX="0" frameY="0" frameWidth="1969" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers Idle0013" x="1974" y="674" width="1964" height="674" frameX="0" frameY="0" frameWidth="1969" frameHeight="674"/>
+</TextureAtlas>
